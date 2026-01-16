@@ -26,7 +26,7 @@
 11. Вывод результата
    
 ### Блок-схема
-<img width="1094" height="1980" alt="image" src="https://github.com/user-attachments/assets/2d21822c-6cf1-4d23-8d48-dbd5098d15cb" />
+<img width="834" height="1445" alt="image" src="https://github.com/user-attachments/assets/8951f50c-2631-4f92-b153-bd5d7134b954" />
 
 
 
